@@ -1,11 +1,13 @@
 import pandas as pd
 
-def hello_(s:str()):
+def hello_(s:str(),x:str):
 
     print('Hello' ,s)
 
 s='Darryl'
 
+ss='how are you?'
+
 if __name__ == "__main__":
 
-    hello_(s)
+    hello_(s,ss)
