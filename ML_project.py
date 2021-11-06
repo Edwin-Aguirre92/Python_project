@@ -1,10 +1,10 @@
 import pandas as pd
 
-def hello_(s:str(),x:str):
+def hello_(s:str(),x:str()):
 
     print('Hello' ,s, x)
 
-s='Darryl'
+s='Darryl,'
 
 ss='how are you?'
 
