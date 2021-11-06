@@ -2,7 +2,7 @@ import pandas as pd
 
 def hello_(s:str(),x:str):
 
-    print('Hello' ,s)
+    print('Hello' ,s, x)
 
 s='Darryl'
 
