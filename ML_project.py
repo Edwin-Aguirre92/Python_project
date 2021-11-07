@@ -1,12 +1,10 @@
-import pandas as pd
-from datetime import date
+from Class_hello import hello
 
-def hello_(s:str(),x:str()):
+s= 'Darryl,'
 
-    print('Hello' ,s, x)
-
-s='Darryl,'
+ss='how are you ?'
 
 
+hello.hello_(s,ss)
 
-    
+hello._date_today
