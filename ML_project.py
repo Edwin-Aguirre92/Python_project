@@ -1,13 +1,11 @@
-import pandas as pd
+from Class_hello import hello
 
-def hello_(s:str(),x:str()):
+s= 'Darryl,'
 
-    print('Hello' ,s, x)
-
-s='Darryl,'
-
-ss='how are you?'
+ss='how are you ?'
 
 if __name__ == "__main__":
 
-    hello_(s,ss)
+    hello.hello_(s,ss)
+
+    hello._date_today
